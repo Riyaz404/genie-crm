@@ -1,0 +1,7 @@
+allowBuilds:
+  msw: set this to true or false
+  sharp: set this to true or false
+  unrs-resolver: set this to true or false
+minimumReleaseAgeExclude:
+  - '@next/eslint-plugin-next@16.2.9'
+  - eslint-config-next@16.2.9
